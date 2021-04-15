@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retrofit_2</string>
+    <string name="id">Id</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="get_users">Get Users</string>
+    <string name="todo">TODO</string>
+</resources>
